@@ -47,8 +47,6 @@ It should look something like this!
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-Name: Siddharth Pradeep
+Name: sunny Raj
 
-Git User Name: thirt33n
-
-Git URL: https://github.com/thirt33n
+Git User Name: sunnysharma941
